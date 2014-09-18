@@ -20,6 +20,10 @@ ui.R
 <h3>Reproducible Pich Presentation</h3>
 
 Using RPresenter  
+Project.Rmd  
+Project.md  
+
+
 The presentation in RPubs is at  
 [http://rpubs.com/Rosae/28987](http://rpubs.com/Rosae/28987)  
 
